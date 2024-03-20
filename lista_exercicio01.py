@@ -8,4 +8,3 @@ elif x == 2:
     print("DOIS")
 else:
     print("ERRO")
-    print("teste")
